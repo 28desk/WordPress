@@ -1,0 +1,11 @@
+wp-config.php
+wp-content/*
+
+# Misc files
+.DS_Store
+~*
+ehthumbs.db
+Thumbs.db
+*.log
+*.sql
+*.sqlite
