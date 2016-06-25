@@ -4,6 +4,7 @@ wp-content/*
 # Misc files
 .DS_Store
 ~*
+.htaccess
 ehthumbs.db
 Thumbs.db
 *.log
